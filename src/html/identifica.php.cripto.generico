@@ -1,0 +1,8 @@
+<?php
+$username="usuario_do_banco";
+$pass="senha_do_usuario_do_banco";
+$nome_base_dados = "nome_do_ banco";
+$contra_senha = "inseridencia_senaes";
+// cuidado com o ponto de interrogacao abaixo, porque coloca um line break antes do echo quando este arquivo eh incluido em outro com include
+?>
+
